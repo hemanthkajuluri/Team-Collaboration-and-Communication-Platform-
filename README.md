@@ -83,13 +83,5 @@ $ nodemon server
 # The server will initialize in the http://localhost:8040
 ```
 
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with 3AM efforts by <a href="https://github.com/theoneandonlyshadow" target="_blank">Madhav Nair</a>
-
-&#xa0;
 
 <a href="#top">Back to top</a>
